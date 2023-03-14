@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @aniusta
-- 👀 I’m interested in simulations and AI
-- 🌱 I’m currently learning C++ and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello I am Adriel Eusta learning to be full stack
 
 <!---
 aniusta/aniusta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
