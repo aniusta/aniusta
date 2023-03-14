@@ -1,4 +1,4 @@
-Hello I am Adriel Eusta learning to be full stack
+###Hi I'm Adriel Eusta!
 
 <!---
 aniusta/aniusta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
