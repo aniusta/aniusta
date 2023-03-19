@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **python**
 
+- ⚡ Fun fact **I think I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adriel eusta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriel eusta" height="30" width="40" /></a>
@@ -18,3 +20,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aniustaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aniustaa" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniusta&show_icons=true&locale=en&layout=compact" alt="aniusta" /></p>
