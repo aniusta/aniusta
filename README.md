@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding Error" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRhZjg4OTU2OTY3MjBhYTliMDg1Mjg3MDkwMTM2MjFiNzAxODBkMyZjdD1z/Ll22OhMLAlVDb8UQWe/giphy.gif"></img>
 
-- 🌱 I’m currently learning **HTML, CSS, REACTJS, NODEJS**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 💬 Ask me about **python**
 
