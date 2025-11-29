@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adriel Eusta</h1>
-<h3 align="center">A creative and goal-oriented college student</h3>
+<h3 align="center">grindset mindset</h3>
 
 <img align="right" alt="Coding Error" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRhZjg4OTU2OTY3MjBhYTliMDg1Mjg3MDkwMTM2MjFiNzAxODBkMyZjdD1z/Ll22OhMLAlVDb8UQWe/giphy.gif"></img>
 
